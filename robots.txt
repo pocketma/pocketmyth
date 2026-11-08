@@ -1,0 +1,13 @@
+# robots.txt — https://www.pocketmyth.net
+# Simplified Chinese site lives at /, the international English site at /en/.
+
+User-agent: *
+Allow: /
+
+# Utility page (age-rating gate) — no search value
+Disallow: /view/
+
+# CSS, JS and images stay crawlable on purpose: Google needs them to render
+# the pages, and image search is a useful traffic source for a game site.
+
+Sitemap: https://www.pocketmyth.net/sitemap.xml
