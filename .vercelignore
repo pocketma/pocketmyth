@@ -1,0 +1,13 @@
+# hero source art: build input only, the site serves the WebP derivatives
+img/new/bg_index_page.png
+img/newM/bg_index_page.png
+
+# notes and scripts are not part of the site
+*.md
+*.py
+*.ps1
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store

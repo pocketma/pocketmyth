@@ -1,0 +1,13 @@
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# local scratch
+*.log
+.screenshots/
+_originals/
+
+# Python
+__pycache__/
+*.pyc
